@@ -1,2 +1,3 @@
 # Krak-HTR
-HTR pipeline using Kraken
+
+Travail de veille sur l'HTR.
